@@ -14,6 +14,8 @@ You can download a video using the URL of the video or manifest and its destinat
 4. The download of the video starts instantly.
 
 ### 2. File Mode
+Create a text file containing une download per line with the format 'url destination' (url and destination separated by a space)
+
 1. Write f and press Enter.
 2. Write the path of the file and press Enter.
 3. The download of the first video starts instantly, at the end of each download the next one will start instantly.
