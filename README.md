@@ -1,8 +1,8 @@
 # Python Video Downloader
 
 ## Prerequisites
-[x] ffmpeg
-[x] python-ffmpeg (pip install python-ffmpeg)
+- [x] ffmpeg
+- [x] python-ffmpeg (pip install python-ffmpeg)
 
 ## How to use
 You can download a video using the URL of the video or manifest and its destination or you can create a text file with all the videos and their destinations.
